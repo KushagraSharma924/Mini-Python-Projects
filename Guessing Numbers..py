@@ -18,5 +18,5 @@ while n != user_input:
 
     else:
         break
-        print("You Guessed right!!")
+print("You Guessed right!!")
         
